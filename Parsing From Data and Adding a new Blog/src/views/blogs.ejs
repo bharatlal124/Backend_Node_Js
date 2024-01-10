@@ -1,0 +1,10 @@
+<!-- // Write your code here -->
+<ul class="list-group">
+    <% blogs.forEach(blog => { %>
+    <li class="list-group-item">
+        <h2><%= blog.title %></h2>
+        <p><%= blog.description %></p>
+        <img src="<%= blog.img %>" alt="<%= blog.title %>" class="img-fluid" />
+    </li>
+    <% }); %>
+</ul>
