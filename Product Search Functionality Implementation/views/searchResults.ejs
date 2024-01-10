@@ -1,0 +1,14 @@
+<div class="container p-5 gap-2 d-flex flex-wrap">
+    <% if (searchResults.length === 0) { %>
+    <p>No results found</p>
+    <% } else { %>
+    <% searchResults.forEach((result) => { %>
+    <div class="card" style="width: 18rem">
+        <img src="<%= result.image %>" class="card-img-top" alt="..." />
+        <div class="card-body">
+            <p class="card-text"><%= result.name %></p>
+        </div>
+    </div>
+    <% }) %>
+    <% } %>
+</div>
