@@ -1,0 +1,28 @@
+Thu Jan 25 2024 20:31:56 GMT+0530 (India Standard Time)
+req URL: /api/user/register
+reqBody: {"name":"bharatlal","email":"bharatlalsohna@gmail.com","passwod":"12345"}
+
+Thu Jan 25 2024 20:32:26 GMT+0530 (India Standard Time)
+req URL: /api/user
+reqBody: {"name":"bharatlal","email":"bharatlalsohna@gmail.com","passwod":"12345"}
+
+Thu Jan 25 2024 20:33:46 GMT+0530 (India Standard Time)
+req URL: /api/user
+reqBody: {"name":"bharatlal","email":"bharatlalsohna@gmail.com","passwod":"12345"}
+
+Thu Jan 25 2024 20:33:49 GMT+0530 (India Standard Time)
+req URL: /api/user
+reqBody: {"name":"bharatlal","email":"bharatlalsohna@gmail.com","passwod":"12345"}
+
+Thu Jan 25 2024 20:34:51 GMT+0530 (India Standard Time)
+req URL: /api/user
+reqBody: {"name":"vivek","email":"krvivi28@gmail.com","passwod":"vivek28@"}
+
+Thu Jan 25 2024 20:36:18 GMT+0530 (India Standard Time)
+req URL: /api/user
+reqBody: {"name":"vivek","email":"krvivi28@gmail.com","passwod":"vivek28@"}
+
+Thu Jan 25 2024 20:37:25 GMT+0530 (India Standard Time)
+req URL: /api/user/register
+reqBody: {"name":"vivek","email":"krvivi28@gmail.com","passwod":"vivek28@"}
+
